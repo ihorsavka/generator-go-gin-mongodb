@@ -1,0 +1,12 @@
+{
+  "name": "<%= baseName %>",
+  "version": "0.0.0",
+  "description": "Devtools for <%= baseName %>",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.9.0"
+  },
+  "engines": {
+    "node": "~5.0.0"
+  }
+}
